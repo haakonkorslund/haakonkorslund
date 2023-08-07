@@ -1,6 +1,7 @@
 ![programmering og systemarkitektur](https://github.com/haakonkorslund/haakonkorslund/blob/main/Banner.png)
 
 # Haakon Korslund
+Hei hei! 👋
 Jeg er Haakon og er en programmering og systemarkitektur student ved Universitetet i Oslo.
 Jeg liker å lære meg nye programmeringsspråk, og gruppearbeid.
 
