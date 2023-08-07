@@ -4,7 +4,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: Java / Python / Kotlin / C / SQL / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: haakon@per-o.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/haakonkorslund)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Haakon-korslund/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/haakonkorslund/)  
+
 
 
 
