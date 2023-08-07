@@ -1,8 +1,18 @@
-### Hi there 👋, Haakon Korslund
-#### programmering og systemarkitektur
 ![programmering og systemarkitektur](https://github.com/haakonkorslund/haakonkorslund/blob/main/Banner.png)
 
+### Hei hei 👋, jeg er Haakon Korslund
+#### programmering og systemarkitektur
+
 Jeg er en programmering og systemarkitektur student ved Universitetet i Oslo.
+
+## Kunnskap og erfaringer
+* Objektorientert programmering
+* Logiske metoder
+* Algoritmer og datastrukturer
+* Informasjonssikkerhet
+* Databaser og datamodellering
+* Operativsystemer og datakomunikasjon
+* Software Engineering
 
 Skills: Java / Python / Kotlin / C / SQL / JS / HTML / CSS
 
