@@ -1,6 +1,6 @@
 ![programmering og systemarkitektur](https://github.com/haakonkorslund/haakonkorslund/blob/main/Banner.png)
 
-#Haakon Korslund
+# Haakon Korslund
 programmering og systemarkitektur
 
 Jeg er en programmering og systemarkitektur student ved Universitetet i Oslo.
