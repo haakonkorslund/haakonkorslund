@@ -14,7 +14,7 @@ Jeg er en programmering og systemarkitektur student ved Universitetet i Oslo.
 * Operativsystemer og datakomunikasjon
 * Software Engineering
 
-# Kontakt meg
+# Kontakt
 - 📫 haakon@per-o.com
 - 📱900 671 90
 
