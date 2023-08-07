@@ -13,6 +13,11 @@ Jeg liker å lære meg nye programmeringsspråk, og gruppearbeid.
 * Operativsystemer og datakomunikasjon
 * Software Engineering
 
+## Eksempel på arbeid
+# tur app
+
+
+
 # Kontakt
 - 📫 haakon@per-o.com
 - 📱900 671 90
