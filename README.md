@@ -1,16 +1,10 @@
 ### Hi there 👋, Haakon Korslund
 #### programmering og systemarkitektur
-![programmering og systemarkitektur](https://www.linkedin.com/in/haakon-korslund/overlay/background-image/)
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Jeg er Haakon Korslund, en programmering og systemarkitektur student på UiO. Jeg elsker å lære meg nye programmeringsspråk og jobbe med gruppeprojekter.
-
-Se også https://www.linkedin.com/in/haakon-korslund/
 Skills: Java / Python / Kotlin / C / SQL / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-
-
-
 
 
 
