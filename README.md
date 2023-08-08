@@ -1,4 +1,4 @@
-![programmering og systemarkitektur](https://github.com/haakonkorslund/haakonkorslund/blob/main/Banner.png)
+![programmering og systemarkitektur](https://github.com/haakonkorslund/haakonkorslund/blob/main/Bannerhk.png)
 
 # Haakon Korslund
 #### Hei hei! 👋
