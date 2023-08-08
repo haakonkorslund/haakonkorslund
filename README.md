@@ -14,7 +14,7 @@ Jeg liker å lære meg nye programmeringsspråk, og gruppearbeid.
 * Operativsystemer og datakomunikasjon
 * Software Engineering
 
-## Eksempel på arbeid
+## Mine projekter
 
 
 
