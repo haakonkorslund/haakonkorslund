@@ -17,8 +17,13 @@ Jeg liker å lære meg nye programmeringsspråk, og gruppearbeid.
 ## Mine prosjekter
 
 ### Snake
-
+Slangespill utviklet i Java ved hjelp av GUI. <br />
 ![Snake](https://github.com/haakonkorslund/haakonkorslund/assets/141656049/ccf0db1c-643e-4536-9730-d0c8ae11aece) <br /> 
+[Repository](https://github.com/haakonkorslund/Snake)
+
+
+### Six Degrees of IMDB
+Gitt to skuespillere finner en korteste sti som forbinder dem via felles filmer.
 [Repository](https://github.com/haakonkorslund/Snake)
 
 ## Kontakt
