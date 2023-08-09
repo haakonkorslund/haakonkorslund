@@ -16,6 +16,11 @@ Jeg liker å lære meg nye programmeringsspråk, og gruppearbeid.
 
 ## Mine prosjekter
 
+###Snake <br />
+![image](https://github.com/haakonkorslund/haakonkorslund/assets/141656049/df673616-3b0c-4053-970f-508fc7a66001)
+
+
+
 
 
 ## Kontakt
