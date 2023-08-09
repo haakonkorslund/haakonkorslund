@@ -25,7 +25,6 @@ Slangespill utviklet i Java ved hjelp av GUI. <br />
 ### Six Degrees of IMDB
 Gitt to skuespillere finner en korteste sti som forbinder dem via felles filmer.
 ![image](https://github.com/haakonkorslund/haakonkorslund/assets/141656049/73583d1e-2b5f-4839-8482-e01aa4b49974)
-![image](https://github.com/haakonkorslund/haakonkorslund/assets/141656049/438b764f-85c6-481f-8230-843605e916c4)
 ![image](https://github.com/haakonkorslund/haakonkorslund/assets/141656049/4b754703-972f-4180-afce-30938ef82b90)
 
 [Repository](https://github.com/haakonkorslund/Six-Degrees-of-IMDB)
