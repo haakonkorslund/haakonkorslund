@@ -18,8 +18,8 @@ Jeg liker å lære meg nye programmeringsspråk, og gruppearbeid.
 
 ### Snake
 
-[![Snake](https://github.com/haakonkorslund/haakonkorslund/assets/141656049/ccf0db1c-643e-4536-9730-d0c8ae11aece)](https://github.com/haakonkorslund/Snake)
-
+[![Snake](https://github.com/haakonkorslund/haakonkorslund/assets/141656049/ccf0db1c-643e-4536-9730-d0c8ae11aece)]
+[Repository](https://github.com/haakonkorslund/Snake)
 
 ## Kontakt
 - 📫 haakon@per-o.com
