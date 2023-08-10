@@ -33,7 +33,8 @@ Gitt to skuespillere finner en korteste sti som forbinder dem via felles filmer.
 En proxy som konverterer studentoppføringer frem og tilbake mellom et XML-format og et binært format.
 
 ![TransferringFilesYetiGIF](https://github.com/haakonkorslund/haakonkorslund/assets/141656049/199a3752-f02d-427f-966a-9bd2bbf0ca19)
-![CopyingComputerGIF](https://github.com/haakonkorslund/haakonkorslund/assets/141656049/9ff26e69-f385-45a1-97ba-0d43eda7c77d)
+![DigimonDinosaurGIF](https://github.com/haakonkorslund/haakonkorslund/assets/141656049/dab28da2-f368-4244-9c42-8c026e448f5a)
+
 
 
 [Proxy service](https://github.com/haakonkorslund/Proxy-Service)
