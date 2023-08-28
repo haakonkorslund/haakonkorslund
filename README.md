@@ -25,6 +25,7 @@ Android studio prosjekt utviklet med Kotlin. <br />
 <img width="160" alt="Skjermbilde 2023-08-29 kl  00 49 16" src="https://github.com/haakonkorslund/haakonkorslund/assets/141656049/7226d71e-9ff8-4733-bf46-6d53d1a92e46"> <br />
 
 [PackMate](https://github.com/haakonkorslund/PackMATE)
+[PackMate - Rapport](https://github.com/haakonkorslund/PackMATE/blob/main/PackMate%20-%20Rapport.pdf)
 
 ### Snake
 Slangespill utviklet i Java ved hjelp av GUI. <br />
