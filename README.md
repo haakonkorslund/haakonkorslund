@@ -24,12 +24,14 @@ Android studio prosjekt utviklet med Kotlin. <br />
 <img width="160" alt="Skjermbilde 2023-08-29 kl  00 48 49" src="https://github.com/haakonkorslund/haakonkorslund/assets/141656049/c12f7129-cee6-4849-a056-7d25c2fe32bc">
 <img width="160" alt="Skjermbilde 2023-08-29 kl  00 49 16" src="https://github.com/haakonkorslund/haakonkorslund/assets/141656049/7226d71e-9ff8-4733-bf46-6d53d1a92e46"> <br />
 
+#### Link: 
 [PackMate](https://github.com/haakonkorslund/PackMATE) <br />
 [PackMate - Rapport](https://github.com/haakonkorslund/PackMATE/blob/main/PackMate%20-%20Rapport.pdf)
 
 ### Snake
 Slangespill utviklet i Java ved hjelp av GUI. <br />
 ![Snake](https://github.com/haakonkorslund/haakonkorslund/assets/141656049/ccf0db1c-643e-4536-9730-d0c8ae11aece) <br /> 
+#### Link: 
 [Snake](https://github.com/haakonkorslund/Snake)
 
 
@@ -38,7 +40,7 @@ Gitt to skuespillere finner en korteste sti som forbinder dem via felles filmer.
 ![image](https://github.com/haakonkorslund/haakonkorslund/assets/141656049/73583d1e-2b5f-4839-8482-e01aa4b49974)
 ![image](https://github.com/haakonkorslund/haakonkorslund/assets/141656049/4b754703-972f-4180-afce-30938ef82b90)
 
-#### link
+#### Link: 
 [Six-Degrees-of-IMDB](https://github.com/haakonkorslund/Six-Degrees-of-IMDB)
 
 ### Proxy Service
@@ -46,6 +48,7 @@ En proxy som konverterer studentoppføringer frem og tilbake mellom et XML-forma
 
 ![DigimonDinosaurGIF](https://github.com/haakonkorslund/haakonkorslund/assets/141656049/dab28da2-f368-4244-9c42-8c026e448f5a)
 
+#### Link: 
 [Proxy service](https://github.com/haakonkorslund/Proxy-Service)
 
 
