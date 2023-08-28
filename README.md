@@ -18,11 +18,11 @@ Jeg liker å lære meg nye programmeringsspråk, og gruppearbeid.
 
 ### PackMate
 Android studio prosjekt utviklet med Kotlin. <br />
-! <img width="269" alt="Skjermbilde 2023-08-29 kl  00 47 30" src="https://github.com/haakonkorslund/haakonkorslund/assets/141656049/d7fc30c9-82af-457e-b35a-430985cbbbc7">
-<img width="250" alt="Skjermbilde 2023-08-29 kl  00 48 06" src="https://github.com/haakonkorslund/haakonkorslund/assets/141656049/9e6f6253-b704-4dd2-9a41-e360293cf5e6">
-<img width="258" alt="Skjermbilde 2023-08-29 kl  00 48 31" src="https://github.com/haakonkorslund/haakonkorslund/assets/141656049/21dad50d-cb10-40e3-8aa0-d8329a88e064">
-<img width="274" alt="Skjermbilde 2023-08-29 kl  00 48 49" src="https://github.com/haakonkorslund/haakonkorslund/assets/141656049/c12f7129-cee6-4849-a056-7d25c2fe32bc">
-<img width="277" alt="Skjermbilde 2023-08-29 kl  00 49 16" src="https://github.com/haakonkorslund/haakonkorslund/assets/141656049/7226d71e-9ff8-4733-bf46-6d53d1a92e46">
+! <img width="160" alt="Skjermbilde 2023-08-29 kl  00 47 30" src="https://github.com/haakonkorslund/haakonkorslund/assets/141656049/d7fc30c9-82af-457e-b35a-430985cbbbc7">
+<img width="160" alt="Skjermbilde 2023-08-29 kl  00 48 06" src="https://github.com/haakonkorslund/haakonkorslund/assets/141656049/9e6f6253-b704-4dd2-9a41-e360293cf5e6">
+<img width="160" alt="Skjermbilde 2023-08-29 kl  00 48 31" src="https://github.com/haakonkorslund/haakonkorslund/assets/141656049/21dad50d-cb10-40e3-8aa0-d8329a88e064">
+<img width="160" alt="Skjermbilde 2023-08-29 kl  00 48 49" src="https://github.com/haakonkorslund/haakonkorslund/assets/141656049/c12f7129-cee6-4849-a056-7d25c2fe32bc">
+<img width="160" alt="Skjermbilde 2023-08-29 kl  00 49 16" src="https://github.com/haakonkorslund/haakonkorslund/assets/141656049/7226d71e-9ff8-4733-bf46-6d53d1a92e46">
 
 
 ### Snake
